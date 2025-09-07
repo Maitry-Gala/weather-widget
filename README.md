@@ -1,17 +1,31 @@
-<<<<<<< HEAD
-# React + Vite
+# Weather Widget
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React-based Weather App** that allows users to search for any city and see current weather details including temperature, humidity, and weather description. Styled with **Material-UI**, featuring responsive cards and a clean UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Search for cities worldwide.
+- Displays temperature, min/max temperature, humidity, and weather description.
+- Responsive weather cards with images for hot, cold, and rainy weather.
+- Built with React, Material-UI, and custom CSS.
+- Error handling for invalid city names.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# weather-app
-A responsive weather dashboard built with React and Material UI that fetches live weather data from a public API. Users can search for any city to view current temperature, humidity, minimum &amp; maximum temperatures, and weather conditions. The app features dynamically styled weather cards with images and a modern, user-friendly interface.
->>>>>>> b2ec1a788614267108566dab5ebae62840463281
+---
+
+## Tech Stack
+
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3  
+- **UI Library:** Material-UI (MUI)  
+- **Bundler/Tooling:** Vite  
+- **Version Control:** Git & GitHub  
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Maitry-Gala/weather-widget.git
