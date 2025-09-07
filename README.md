@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# weather-app
+A responsive weather dashboard built with React and Material UI that fetches live weather data from a public API. Users can search for any city to view current temperature, humidity, minimum &amp; maximum temperatures, and weather conditions. The app features dynamically styled weather cards with images and a modern, user-friendly interface.
+>>>>>>> b2ec1a788614267108566dab5ebae62840463281
